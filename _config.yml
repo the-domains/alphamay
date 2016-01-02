@@ -1,28 +1,40 @@
-name: Alphamay
+layout_spectrum: 0.9418213
 favicon: null
-layout_spectrum: 0.2401709973346442
-typography_spectrum: 0.6614703624509275
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: Alphamay
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.8372681
+  lightness: 0.6408094
+  saturation: 0.6096122
+  rhythmicContrast: 0.4005059
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.08097272086888552
-  lightness: 0.6237988783977926
-  saturation: 0.6204906513448805
-  rhythmicContrast: 0.2670670561492443
-purpose: []
+    - '#F1F0F1'
+    - '#282727'
+    - '#9B999B'
+    - '#F29CB4'
+    - '#87292E'
+typography_spectrum: 0.5548061
