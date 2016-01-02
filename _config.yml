@@ -1,0 +1,28 @@
+name: Alphamay
+favicon: null
+layout_spectrum: 0.2401709973346442
+typography_spectrum: 0.6614703624509275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.08097272086888552
+  lightness: 0.6237988783977926
+  saturation: 0.6204906513448805
+  rhythmicContrast: 0.2670670561492443
+purpose: []
