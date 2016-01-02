@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Alphamay]]></title>
+        <description><![CDATA[Alphamay]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 21:38:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Album in February]]></title>
+            <description><![CDATA[<article><h1>New Album in February</h1><p>We proundly present: Twisted Lines!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc81bdb45120f5d6ee3ae716f24bbd92f75ed4fd.jpg"></article>]]></description>
+            <link>undefinednew-album-in-february/index.html</link>
+            <guid isPermaLink="false">e10947c4-9456-45ed-a9a8-a7a85d2815df</guid>
+            <pubDate>Sat, 02 Jan 2016 21:38:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
