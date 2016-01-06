@@ -1,15 +1,7 @@
-layout_spectrum: 0.9418213
-favicon: null
 name: Alphamay
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9418213
+typography_spectrum: 0.5548061
 collections:
   - index:
       navigable: true
@@ -22,19 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Interational website of the German electro band Alphamay
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8372681
-  lightness: 0.6408094
-  saturation: 0.6096122
-  rhythmicContrast: 0.4005059
   brandColors:
     - '#F1F0F1'
     - '#282727'
     - '#9B999B'
     - '#F29CB4'
     - '#87292E'
-typography_spectrum: 0.5548061
+  brandStrength: 0.8372681
+  lightness: 0.6408094
+  saturation: 0.6096122
+  rhythmicContrast: 0.4005059
+purpose: []
